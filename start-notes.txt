@@ -1,1 +1,1 @@
-Test get started quick.
+This file is only a test. Not to be used on the project.
